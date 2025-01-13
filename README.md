@@ -170,6 +170,12 @@ This document introduces a complete family of modern weapon systems designed to 
 - Reliable operation
 - Cost effective
 
+#### 8. Body Armour
+
+The Advanced Protective Equipment System represents a breakthrough in personnel protection, combining three critical layers for maximum defense. At its core, the system uses alternating layers of Kevlar and ultra-high molecular weight polyethylene enhanced with graphene, followed by a smart impact-absorption layer using non-Newtonian materials. The outer layer features a sophisticated honeycomb structure made from aerospace-grade aluminum with strategic titanium reinforcement and advanced ceramic plating, all engineered to work together to provide comprehensive protection.
+
+Designed for practical field use, the complete system weighs 20.8kg and provides coverage for torso, arms, and legs through a modular design that allows for customizable protection levels. The system incorporates innovative features including phase-change cooling technology, biomimetic impact distribution patterns, and fractal energy dispersion channels. All components are field-serviceable and integrate with standard equipment through a MOLLE-compatible platform, while quick-release systems enable emergency removal in under 3 seconds. This combination of advanced protection and practical usability makes it particularly suitable for government personnel operating in high-risk environments.
+
 ### CONCLUSION
 
 This family of weapons provides a complete, integrated combat capability from personal defense to anti-tank operations. Each system has been optimized for its role while maintaining commonality where beneficial. The focus on mechanical simplicity, reliability, and effectiveness ensures superior performance with minimal maintenance requirements.
